@@ -2,5 +2,5 @@
 let btn=document.getElementById("enterBtn")
 btn.addEventListener("click",changeParagraph)
 function changeParagraph(){
-	document.getElementById("status").innerHTML=`<h1>Enter the Metaverse</h1>`
+	document.getElementById("status").innerHTML=`<h1>Entered Metaverse</h1>`
 }
